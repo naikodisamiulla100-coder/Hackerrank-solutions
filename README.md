@@ -23,7 +23,7 @@ The repository contains solutions to all **5 mandatory HackerRank problems**, al
 ## 👤 HackerRank Profile
 
 **HackerRank Profile:**
-[Click here to view my HackerRank Profile](PASTE_YOUR_HACKERRANK_PROFILE_LINK_HERE)
+[Click here to view my HackerRank Profile](https://www.hackerrank.com/profile/naikodisamiulla1)
 
 ---
 
